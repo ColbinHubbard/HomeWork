@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T15:08:41.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="OtqHUXBuoaye6rGwHD70" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-14T15:09:22.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="s1Z7jl12UTq9wLrCF3Wt" version="20.0.1" type="github" pages="3">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Home Page">
-    <mxGraphModel dx="1284" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="8962rQQDY3VNNf6We3Pp-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#3BCEC4;align=left;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3BCEC4;" edge="1" parent="8962rQQDY3VNNf6We3Pp-1" source="8962rQQDY3VNNf6We3Pp-3" target="8962rQQDY3VNNf6We3Pp-2">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" source="8962rQQDY3VNNf6We3Pp-3" target="8962rQQDY3VNNf6We3Pp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8962rQQDY3VNNf6We3Pp-3" value="https://www.Colbins_Capstone_WF.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#3BCEC4;align=left;fillColor=#3BCEC4;strokeColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
@@ -63,31 +63,31 @@
         <mxCell id="seymav8gBYocV3_De4xC-2" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=37;fontFamily=Tahoma;fillColor=#3BCEC4;fontColor=#FFFFFF;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="100" y="110" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-13" value="Colbins Cap stone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-13" value="Colbins Cap stone" style="rounded=1;whiteSpace=wrap;html=1;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="140" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-15" value="A slideshow with the worlds most popular music artist!" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-15" value="A slideshow with the worlds most popular music artist!" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="90" y="200" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-17" value="Do you Love Music?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-17" value="Do you Love Music?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="770" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-16" value="Are you an ARTIST" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-16" value="Are you an ARTIST" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4hFZKT6m70qrOcebuIlS-18" value="A central hub for all music artist to utilize!" style="swimlane;horizontal=0;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;startSize=600;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="4hFZKT6m70qrOcebuIlS-18" value="A central hub for all music artist to utilize!" style="swimlane;horizontal=0;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;startSize=600;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="450" y="230" width="600" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="va3dYUlxPmS5AtsNLQLQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;" edge="1" parent="8962rQQDY3VNNf6We3Pp-1" source="va3dYUlxPmS5AtsNLQLQ-1" target="8962rQQDY3VNNf6We3Pp-20">
+        <mxCell id="va3dYUlxPmS5AtsNLQLQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;" parent="8962rQQDY3VNNf6We3Pp-1" source="va3dYUlxPmS5AtsNLQLQ-1" target="8962rQQDY3VNNf6We3Pp-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="va3dYUlxPmS5AtsNLQLQ-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="va3dYUlxPmS5AtsNLQLQ-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#1A1A1A;strokeColor=#3BCEC4;fillColor=#3BCEC4;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="630" y="800" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="8962rQQDY3VNNf6We3Pp-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="900" y="1080" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="va3dYUlxPmS5AtsNLQLQ-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=13;fontColor=#0066CC;" vertex="1" parent="8962rQQDY3VNNf6We3Pp-1">
+        <mxCell id="va3dYUlxPmS5AtsNLQLQ-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="940" y="860" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8962rQQDY3VNNf6We3Pp-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
