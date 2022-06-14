@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T06:03:31.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="Jb9WkqZuZ9qGQxVTb9xp" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-14T14:17:43.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="pCqsGZ6Au6Iyvtqjw_O0" version="20.0.1" type="github" pages="3">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Home Page">
     <mxGraphModel dx="1282" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,19 +40,16 @@
           <mxGeometry y="1180" width="1150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8962rQQDY3VNNf6We3Pp-30" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
-          <mxGeometry x="425" y="1230" width="300" height="40" as="geometry" />
+          <mxGeometry x="450" y="1230" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8962rQQDY3VNNf6We3Pp-31" value="BUTTON" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+        <mxCell id="8962rQQDY3VNNf6We3Pp-31" value="Agreements " style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
           <mxGeometry width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8962rQQDY3VNNf6We3Pp-32" value="BUTTON" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
-          <mxGeometry x="75" width="75" height="40" as="geometry" />
+        <mxCell id="8962rQQDY3VNNf6We3Pp-32" value="Policy" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="85" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8962rQQDY3VNNf6We3Pp-33" value="BUTTON" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
-          <mxGeometry x="150" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8962rQQDY3VNNf6We3Pp-34" value="BUTTON" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
-          <mxGeometry x="225" width="75" height="40" as="geometry" />
+        <mxCell id="8962rQQDY3VNNf6We3Pp-33" value="Mission Statement" style="shape=rect;strokeColor=none;fillColor=none;fontSize=12;fontColor=#2196F3;dashed=0;" parent="8962rQQDY3VNNf6We3Pp-30" vertex="1">
+          <mxGeometry x="182" y="1" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8962rQQDY3VNNf6We3Pp-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/peelicons-vol-1/50/LinkedIn-128.png;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" parent="8962rQQDY3VNNf6We3Pp-1" vertex="1">
           <mxGeometry x="870" y="1235" width="30" height="30" as="geometry" />
