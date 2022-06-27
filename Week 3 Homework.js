@@ -16,12 +16,17 @@ for (let topping of pizzaToppings) {
 // i.e. "One large thick crust pizza with x, y, z, ... coming up!"
 // outputs a list with the size, crust, and toppings
 
-function getPizzaOrder( x, y, z){
-  console.log(`Large =`, x);
-  console.log(`cheese stuffed crust =`, y);
-  console.log(`four toppings =`, z);
-  return `One ${x}, ${y}, pizza with ${z}, coming up`
+function getPizzaOrder( size, crust, ...toppings){
+  console.log("Size =", size);
+  console.log("crust =", crust);
+  console.log("toppings =", toppings);
+  return console.log( "One" +  size +  crust +   "pizza with" +   toppings +   "coming up" )
 }
 console.log(getPizzaOrder);
-getPizzaOrder();
+getPizzaOrder("large", "stuffed", "spinach", "chicken");
 
+//4 Create a preparePizza function that
+//has an array as its parameter with three items: a size, a crust, and a list of toppings
+//prints something like "...Cooking pizza..."
+//outputs a pizza Object with appropriate key-value pairs for size, crust, and toppings
+function preparePizza["large", "stuffed crust","spinach", "chicken"]
