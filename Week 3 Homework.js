@@ -1,16 +1,15 @@
 // #1 Create an array of pizzaToppings with at least four different toppings
 const pizzaToppings = ["Spinach", "Tomatoes", "Black Olives", "Mushrooms", "Anchovies"];
+for (let topping of pizzaToppings) {
+  console.log(topping);
+}
+
 // #2 Create a greetCustomer function that prints a message that welcomes a guest,
 // then informs them of the available toppings by looping over pizzaToppings
 
 function greetCustomer() {
-  let toppingsList = "";
-  for (let topping of pizzaToppings) {
-  //toppingsList =+ topping + ", ";
 
-  }
-  console.log(" Welcome to Pizza house, our toppings are " + pizzaToppings);
-}
+  return(" Welcome to Pizza house, our toppings are " + pizzaToppings);}
 greetCustomer()
 
 
@@ -19,37 +18,38 @@ greetCustomer()
 // i.e. "One large thick crust pizza with x, y, z, ... coming up!"
 // outputs a list with the size, crust, and toppings
 
-function getPizzaOrder( size, crust, ...toppings){
-  let toppingsList = "";
-  for (let topping of toppings) {
-  toppingsList =+ topping + ", ";
-  }
-  console.log( "One" +  size +  crust +   "crust pizza with" +   toppingsList +   "coming up" )
-  return pizzaArray = [size, crust, toppings];
+function getPizzaOrder( size, crust, toppings){
+  //let toppingsList = "";
+  //for (let topping of toppings) {
+  //toppingsList =+ topping + ", ";
+  //}
+  console.log( "  One  " +   size +    crust +   " crust pizza with  " +    toppings +   "  coming up  " );
 }
-getPizzaOrder("large", "stuffed", "spinach", "chicken");
+  //return pizzaArray = [size, crust, toppings];
+
+getPizzaOrder("large", "stuffed", "spinach and chicken");
 
 
 //4 Create a preparePizza function that
 //has an array as its parameter with three items: a size, a crust, and a list of toppings
 //prints something like "...Cooking pizza..."
 //outputs a pizza Object with appropriate key-value pairs for size, crust, and toppings
-function preparePizza(arrayParam){
+function preparePizza([size, crust, toppings]){
   let pizzaObject = {
-    size: arrayParam[0],
-    crust: arrayParam[1],
-    toppings: arrayParam[2],
+    size: "large",
+    crust: "stuffed",
+    toppings: ["spinach","chicken"]
   }
-  console.log("Your pizza is cooking now");
-  return pizzaObject;
+  //console.log("Your pizza is cooking now");
+  return "Cooking" + pizzaObject;
 }
-preparePizza(pizzaArray);
+console.log();
 
 //5
-function serverPizza(pizzaObject) {
+function servePizza(pizzaObject) {
   console.log( `Order up! Here's your ${pizzaObject.size} ${pizzaObject.crust}, pizza with ${pizzaObject.toppings}...Enjoy`)
   return pizzaObject
 }
 //6
-greetCustomer();
-(servePizza(preparePizza(getPizzaOrder('large','stuffed','spinach', 'chicken'))));
+greetCustomer(servePizza(preparePizza(getPizzaOrder('large','stuffed','spinach', 'chicken'))));
+
