@@ -38,12 +38,13 @@ function preparePizza([size, crust, toppings]){
   let pizzaObject = {
     size: "large",
     crust: "stuffed",
-    toppings: ["spinach","chicken"]
+    toppings: "spinach","chicken"]
   }
   //console.log("Your pizza is cooking now");
   return "Cooking" + pizzaObject;
 }
-console.log();
+preparePizza();
+console.log(preparePizza);
 
 //5
 function servePizza(pizzaObject) {
