@@ -1,0 +1,40 @@
+header {
+font-size: large;
+border: 10px solid black;
+margin: 20px;
+color: white;
+background-color: black;
+}
+body {
+  background-color: teal;
+}
+.ChrisPaulPic {
+  height: 300px; width: 450px;
+  border: solid white;
+}
+#StephenCurryPic {
+  height: 400px; width: 600px;
+  border: solid white;
+}
+p {
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+}
+ul ~ ol {
+  border: 10px solid black;
+  margin: 20px;
+  padding:5px 10px 5px 5px ;
+  color: white;
+  background-color: black;
+}
+div + ul {
+  border: 10px solid black;
+  margin: 20px;
+  padding:5px 10px 5px 5px ;
+  color: white;
+  background-color: black;
+}
+h2 > img {
+  border: solid white;
+}
