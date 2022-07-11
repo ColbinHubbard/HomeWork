@@ -1,0 +1,68 @@
+html {
+  background-color: antiquewhite;
+}
+
+*{
+  max-width: 700px;
+  margin: auto;
+}
+
+body {margin-left:5%;
+  margin-right:5%;
+  margin-bottom:1%;
+  margin-top:1%;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  font-size: 20px;
+  padding: 15px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 70%;
+  position: relative;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  float: right;
+  position: static;
+  border: solid wheat;
+}
+#bio > li {
+  padding: 2px;
+  font-size: 20px;
+
+}
+
+#pro {
+  width: auto;
+}
+
+@media screen
+  and (min-device-width: 1200px){
+
+  }
+
+h2 {
+  text-align: center
+}
+#mid {
+  height: 70%;
+  width: 50%;
+}
+link:hover{
+  color: red;
+}
